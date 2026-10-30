@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 350">
+<g transform="translate(15 32) rotate(-9 145 150)">
+<ellipse cx="148" cy="246" rx="116" ry="22" fill="#d83d00" opacity=".22"/>
+<path d="M45 136 Q146 73 251 137 L221 213 Q144 250 70 213Z" fill="#ffd7a0"/>
+<path d="M54 130 Q148 68 244 130 L231 155 Q146 112 64 155Z" fill="#eaa33b"/>
+<path d="M63 145 Q147 105 233 145 L220 168 Q145 130 75 168Z" fill="#6d9c37"/>
+<path d="M70 162 Q148 125 225 162 L212 185 Q145 151 82 185Z" fill="#f54b20"/>
+<path d="M77 180 Q148 150 216 180 L207 199 Q145 224 85 199Z" fill="#ffcf79"/>
+<path d="M52 132 Q146 70 246 132" fill="none" stroke="#ffe8bc" stroke-width="8" stroke-linecap="round"/>
+<circle cx="95" cy="138" r="7" fill="#f7e4a0"/><circle cx="155" cy="121" r="7" fill="#f7e4a0"/><circle cx="205" cy="137" r="7" fill="#f7e4a0"/>
+<path d="M90 98l-8-16m41 2-3-18m54 25 6-17m26 28 11-12" stroke="#fff0d7" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g fill="#fff0d7" opacity=".8"><circle cx="64" cy="68" r="5"/><circle cx="270" cy="104" r="4"/><path d="M38 253l12-4 4 12-12 4z"/></g>
+</svg>
